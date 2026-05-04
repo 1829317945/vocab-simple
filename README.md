@@ -57,22 +57,6 @@ git clone https://github.com/1829317945/vocab-simple.git
 
 ---
 
-## 🧩 Data Structure
-
-每个单词结构示例：
-
-```json
-{
-  "word": "example",
-  "meaning": "示例；例子",
-  "example": "This is an example sentence.",
-  "partOfSpeech": "noun",
-  "createdAt": "2026-05-04"
-}
-```
-
----
-
 ## 🤝 Contributing
 
 欢迎提交 Issue 或 PR！
